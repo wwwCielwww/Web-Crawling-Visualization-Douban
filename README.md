@@ -24,13 +24,13 @@ Copy the link (localhost) prompted and open it in your browser.
 
 It should look something similar to
 
-![](\demo\1.png)
+![](/demo/1.png)
 
-![](\demo\2.png)
+![](/demo/2.png)
 
-![](\demo\3.jpg)
+![](/demo/3.jpg)
 
-![](\demo\4.png)
+![](/demo/4.png)
 
 ## Comment
 
